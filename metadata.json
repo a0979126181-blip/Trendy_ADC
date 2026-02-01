@@ -1,0 +1,5 @@
+{
+  "name": "TrendPulse Reporter",
+  "description": "An automated consumer electronics trend reporting dashboard. Features live AI trend analysis and generates Python automation scripts for daily reporting workflows.",
+  "requestFramePermissions": []
+}
